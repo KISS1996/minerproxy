@@ -1,5 +1,5 @@
 # minerProxy
-!![222](https://user-images.githubusercontent.com/97815657/150623817-f3d6ef1c-cf56-4543-8f68-a92c194497e5.png)
+![222](https://user-images.githubusercontent.com/97815657/150623817-f3d6ef1c-cf56-4543-8f68-a92c194497e5.png)
 
 
 ## 重要说明
