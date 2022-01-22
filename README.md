@@ -9,16 +9,14 @@
 软件支持多开端口，双击桌面图标配置即可，开关机自启动无需再次配置。
 开发者抽水0.3%,纯转发不抽水，目前运行最稳定的软件之一
 国外香港(不实名)云服务器推荐
-美国kvmla:
-https://www.kvmla.pro/aff.php?aff=3000
 恒创云：
-http://my.henghost.com/aff.php?aff=7169
+http://my.henghost.com
 恒天云:
-https://my.htstack.com/aff.php?aff=4044
+https://my.htstack.com
 快云科技：
-https://www.345idc.com/aff/TFQAIXFB
-onevps：
-https://www.onevps.cloud/?aff=23749
+https://www.345idc.com
+华纳云
+http：//www.hncloud.com
 
 ```
 ## 更新日志
