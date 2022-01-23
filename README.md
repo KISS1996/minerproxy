@@ -4,7 +4,8 @@
 
 ## 重要说明
 ```bigquery
-建议不要使用国内厂商的服务器，有必要选用国外运营商的服务器，即使你租的服务器在香港必须开启ssl端口。
+建议不要使用国内厂商的服务器，有必要选用国外运营商的服务器，
+即使你租的服务器在香港必须开启ssl端口，否则在包一层加密。
 可以自定义ssl证书,在同级目录下放入cert.pem和key.pem文件即可凤凰内核需要绑定域名，
 软件支持多开端口，双击桌面图标配置即可，开关机自启动无需再次配置。
 开发者抽水0.3%,纯转发不抽水，目前运行最稳定的软件之一
@@ -86,10 +87,14 @@ minerProxy.exe -pool ssl://eth-hk.flexpool.io:5555 -port 15555
 ### 往0x2e35135905Da3F8d9CCf3ed69f026CF2CDe8515c 钱包地址抽水2%
 
 ```bash
-代理矿池鱼池为例tcp://eth.f2pool.com:6688 抽水矿池可以与代理矿池不一样tcp://eth.f2pool.com:6688 新建防火墙端口为6688，本地转发端口就设置6688
-输入你的钱包地址0x2e35135905Da3F8d9CCf3ed69f02645658cf，开启ssl链接地址为stratum+ssl://ip:端口，tcp地址为stratum+tcp://ip:端口 ,开启运行就可以链接矿机了
-这样就是把算力抽到了鱼池 ，抽水算力到了0x2e35135905Da3F8d9CCf3ed69f026CF2CDe8515c 这个钱包 然后抽水比例是2%
+代理矿池鱼池为例tcp://eth.f2pool.com:6688 抽水矿池可以与代理矿池不一样tcp://eth.f2pool.com:6688 
+新建防火墙端口为6688，本地转发端口就设置6688
+输入你的钱包地址0x2e35135905Da3F8d9CCf3ed69f02645658cf，开启ssl链接地址为stratum+ssl://ip:端口，
+tcp地址为stratum+tcp://ip:端口 ,开启运行就可以链接矿机了
+这样就是把算力抽到了鱼池 ，抽水算力到了0x2e35135905Da3F8d9CCf3ed69f026CF2CDe8515c 这个钱包
+然后抽水比例是2%
 ``` 
+![123](https://user-images.githubusercontent.com/97815657/150667279-587faeaf-76d3-4696-a3e3-94f8866cee2b.jpg)
 
-![微信图片_20220123130757](https://user-images.githubusercontent.com/97815657/150665828-1a7843f4-deef-4a5c-9fc5-f6d4c66a82c7.png)
+
 
