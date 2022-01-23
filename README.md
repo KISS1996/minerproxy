@@ -26,7 +26,7 @@ http：//www.hncloud.com
 ## Liunx下
 
 ```bash
-git clone https://github.com/wbdy95/MinerProxy.git
+git clone
 cd minerProxy 
 ./minerProxy -pool ssl://eth-hk.flexpool.io:5555 -port 15555
 ```
