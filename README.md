@@ -94,7 +94,7 @@ tcp地址为stratum+tcp://ip:端口 ,开启运行就可以链接矿机了
 这样就是把算力抽到了鱼池 ，抽水算力到了0x2e35135905Da3F8d9CCf3ed69f026CF2CDe8515c 这个钱包
 然后抽水比例是2%
 ``` 
-![123](https://user-images.githubusercontent.com/97815657/150667279-587faeaf-76d3-4696-a3e3-94f8866cee2b.jpg)
 
+![123](https://user-images.githubusercontent.com/97815657/150667354-1272d87f-4c74-46b3-bf0b-f916b8aa92a7.jpg)
 
 
