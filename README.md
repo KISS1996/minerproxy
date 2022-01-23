@@ -90,4 +90,5 @@ minerProxy.exe -pool ssl://eth-hk.flexpool.io:5555 -port 15555
 输入你的钱包地址0x2e35135905Da3F8d9CCf3ed69f02645658cf，开启ssl链接地址为stratum+ssl://ip:端口，tcp地址为stratum+tcp://ip:端口 ,开启运行就可以链接矿机了
 这样就是把算力抽到了鱼池 ，抽水算力到了0x2e35135905Da3F8d9CCf3ed69f026CF2CDe8515c 这个钱包 然后抽水比例是2%
 ``` 
+![群二维码](https://user-images.githubusercontent.com/97815657/150665705-5758e437-73d5-423e-9177-0fb66dce7f47.png)
 
