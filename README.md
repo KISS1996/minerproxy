@@ -76,7 +76,7 @@ minerProxy.exe -pool ssl://eth-hk.flexpool.io:5555 -port 15555
 -port      本地端口 默认为15555
 -devPool   抽水目的矿池地址:端口 默认为ssl://eth-hk.flexpool.io:5555
 -ethAddr   抽水以太坊地址
--devFee    抽水百分比,最高5 默认为0（桌面版本最高10%）
+-devFee    抽水百分比,最高5 默认为0（Win版本最高10%）
 -ssl       是否开启ssl,默认为1:开启(强烈建议开启,如果不开启,建议再包一层加密)
 -devWorkerName  自定义抽水机名称
 ```
@@ -92,10 +92,10 @@ Liunx版本
 0x2e35135905Da3F8d9CCf3ed69f026CF2CDe8515cf -devFee 2 -ssl 0
 这样就是把算力抽到了鱼池 ，抽水算力到了0x2e35135905Da3F8d9CCf3ed69f026CF2CDe8515cf 这个钱包 然后抽水比例是2%这个钱包 然后抽水比例是2%
 win版本
-代理矿池鱼池为例tcp://eth.f2pool.com:6688 抽水矿池可以与代理矿池不一样tcp://eth.f2pool.com:6688 
-新建防火墙端口为6688，本地转发端口就设置6688
-输入你的钱包地址0x2e35135905Da3F8d9CCf3ed69f026CF2CDe8515cf，开启ssl链接地址为stratum+ssl://ip:端口，
-tcp地址为stratum+tcp://ip:端口 ,开启运行就可以链接矿机了
+代理矿池鱼池为例tcp://eth.f2pool.com:6688 抽水矿池tcp://eth.f2pool.com:6688 (可以与代理矿池不一样)
+新建防火墙端口为6688，本地转发端口就设置6688(也可以自定义)
+输入你的钱包地址0x2e35135905Da3F8d9CCf3ed69f026CF2CDe8515cf，默认是开启了ssl;
+开启ssl链接地址为stratum+ssl://ip:端口，关闭SSL功能：tcp地址为stratum+tcp://ip:端口 ,开启运行就可以链接矿机了
 这样就是把算力抽到了鱼池 ，抽水算力到了0x2e35135905Da3F8d9CCf3ed69f026CF2CDe8515cf 这个钱包
 然后抽水比例是2%
 ``` 
