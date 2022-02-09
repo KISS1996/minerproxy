@@ -19,9 +19,6 @@ https://www.345idc.com
 华纳云
 http：//www.hncloud.com
 
-```
-## 更新日志
-2022.1.22 更新了随机抽取曲线更好看
 
 ## Liunx下
 
