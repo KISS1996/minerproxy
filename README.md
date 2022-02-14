@@ -12,14 +12,13 @@
 国外香港云服务器推荐，恒创云、恒天云最近不稳定谨慎使用
 阿里云:
 https://cn.aliyun.com
+阿里云国际：
+https://au.alibabacloud.com
 亿速云：
 https://www.yisu.com
 华纳云
 http：//www.hncloud.com
-阿里云国际：
-https://au.alibabacloud.com
-快云科技：
-https://www.345idc.com
+
 
 ```
 ## Liunx下
