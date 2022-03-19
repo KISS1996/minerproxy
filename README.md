@@ -89,5 +89,6 @@ minerProxy.exe -pool ssl://eth-hk.flexpool.io:5555 -port 15555
 
 
 QQ交流群：939701816
+电报：https://t.me/ethasiapool
 
 
